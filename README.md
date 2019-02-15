@@ -16,19 +16,23 @@ Mathematical Theory of Libertarianism
 [Antigragility](https://en.wikipedia.org/wiki/Antifragility)
 
 
-#Cache Invalidation (Forgetfullness)
+## Cache Invalidation (Forgetfullness)
 [Cache Invalidation](https://en.wikipedia.org/wiki/Cache_invalidation)
 
-#Limits of Parallel Computation
+## Limits of Parallel Computation
 [Parallel Complexity Theory](https://www.idi.ntnu.no/emner/tdt4260/_media/ln_dring_chap2_eng_slides.pdf)
 
 
-#Limits of Computation
+## Limits of Computation
 [Computational Complexity](https://en.wikipedia.org/wiki/Computational_complexity_theory)
 
+## Algorithms
+[Bellman Ford Arbitrage](https://www.kelvinjiang.com/2010/10/currency-arbitrage-in-99-lines-of-ruby.html)
 
 
 ## Models
 [Philips Curve](https://www.econlib.org/library/Enc/PhillipsCurve.html)
+[IQ and Employment](https://www.youtube.com/watch?v=X6yLIdBikmI)
+
 
 
